@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&family=Patrick+Hand&display=swap');
+
+  
+ body {
+        text-align: center;
+        background: rgb(247,194,215);
+    background: linear-gradient(90deg, rgba(247,194,215,1) 27%, rgba(213,186,253,1) 61%);
+    }
+    
+    h1{
+        font-family: 'Lobster Two', cursive;
+        color: deeppink;
+    }
+    
+label {
+        font-size: 24px;
+        font-family: 'Patrick Hand', cursive;
+        color: black;
+    }
+
+#name{
+    width: 300px;
+    margin-left: 600px;
+}
+#last_name {
+    width: 300px;
+    margin-left: 600px;
+}
+#C_no {
+    width: 300px;
+    margin-left: 600px;
+}
+
+#address {
+    width: 300px;
+    margin-left: 500px;
+}
